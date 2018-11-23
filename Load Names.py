@@ -6,10 +6,10 @@ verbs = tuple(open('verbs.txt', 'r'))
 
 
 def names():
-    first = verbs[randint(0, 761)].capitalize().splitlines()[0]
-    second = adj[randint(0, 626)].capitalize().splitlines()[0]
-    third = nouns[randint(0, 2453)].capitalize().splitlines()[0]
-    return first+" "+second+" "+third
+    #verbPick = verbs[randint(0, 761)].capitalize().splitlines()[0]
+    adjPick = adj[randint(0, 626)].capitalize().splitlines()[0]
+    nounPick = nouns[randint(0, 2453)].capitalize().splitlines()[0]
+    return adjPick+" "+nounPick
 
 
 for i in range(10):
