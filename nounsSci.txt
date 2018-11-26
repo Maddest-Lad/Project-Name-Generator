@@ -25,7 +25,7 @@ mindfood
 needler
 neutronium
 Niven-Ring
-O’Neill-cylinder
+Oï¿½Neill-cylinder
 parking-Orbit
 precog
 pocket-Universe
@@ -54,4 +54,4 @@ uplift
 Von-Neumann-probe
 waldo
 wetware
-xenology	
+xenology
