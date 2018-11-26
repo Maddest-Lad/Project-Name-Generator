@@ -25,7 +25,7 @@ mindfood
 needler
 neutronium
 Niven-Ring
-O�Neill-cylinder
+O'Neill-cylinder
 parking-Orbit
 precog
 pocket-Universe
